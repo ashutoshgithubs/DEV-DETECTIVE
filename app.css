@@ -214,8 +214,8 @@
     width: 50%;
     display: flex;
     gap: 10px;
-    justify-content: center;
-    align-items: center;
+   justify-content: start;
+    align-items:start;
   }
   
   .bottom-icons {
